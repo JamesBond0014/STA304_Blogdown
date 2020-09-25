@@ -1,1 +1,3 @@
-# STA304_Blogdown
+# About
+
+This is a brief blog

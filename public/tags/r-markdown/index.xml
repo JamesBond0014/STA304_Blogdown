@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on James&#39; Website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on James&#39; Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distribution of grants approved by the City of Toronto</title>
+      <link>/2020/09/24/distribution-of-grants-approved-by-the-city-of-toronto/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/24/distribution-of-grants-approved-by-the-city-of-toronto/</guid>
+      <description>Abstract There are millions of dollars provided by the city of Toronto. By analyzing the how grants were distributed to different organizations throughout the city of Toronto, patterns of distribution patterns emerged. The city of Toronto consistently prioritizes programs such as Toronto Foundation of Student Success through the Student Nutrition program, as well as other organizations. Increase in total funding allocated every year did not create a more diverse range of city funding.</description>
+    </item>
+    
+  </channel>
+</rss>
