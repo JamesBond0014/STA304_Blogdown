@@ -308,7 +308,7 @@ The city shows favor towards a few organizations by allocating a significant por
 
 Summarizing the various graphs, while the city provides a lot of funds to that certainly help out many communities, the city provides by far the most money through the Student Nutrition Program through 2 organizations; the Angel Foundation for Learning (the main beneficiary in 2019) and the Toronto Foundation for Student Success (main beneficiary through 2010-2018). The heavy emphasis on these funding through the past 10 years show that these believes are widely supported by the city, and are irrelevant to the reigning members of city council. 
 
-Full code and data can be found in the R Markdown file located here: https://github.com/JamesBond0014/STA304_Blogdown/blob/master/content/post/2015-07-23-r-rmarkdown.Rmd
+Full code and data can be found in the R Markdown file located [here](https://github.com/JamesBond0014/STA304_Blogdown/blob/master/content/post/2015-07-23-r-rmarkdown.Rmd).
 
 # Weaknesses and next steps
 
